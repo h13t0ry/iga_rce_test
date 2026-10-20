@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "node scripts/build-probe.js && next build --webpack"
+  },
+  "dependencies": {
+    "next": "16.3.5",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
+  },
+  "devDependencies": {}
+}
